@@ -1,116 +1,238 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Salut",
+    "description": "👋 Je suis Oussama Jaker. Je suis un développeur fullstack situé au Maroc. J'ai une sérieuse passion pour le développement web. Je travaille avec les derniers frameworks et technologies web comme le MERN stack et Laravel/vue, ainsi que Wordpress.\nJe suis un personne bien organisée, résolvant des problèmes, apprenant rapidement, employé indépendant avec une grande attention aux détails.\n Je suis Intéressé par l'ensemble du spectre du développement web et travailler sur des projets ambitieux avec des personnes positives.\nMerci 💜",
+    "section_name": {
+      "about": "À propos de moi",
+      "projects": "Projets",
+      "skills": "Compétences",
+      "experience": "Expérience",
+      "contact": "Contactez moi"
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    "contact": "Contact"
+  },
+  "projects": [{
+      "title": "pcvaccin.com",
+      "startDate": "2019",
+      "description": "PC Vaccin est une entreprise canadienne située au Québec, spécialisée dans la sécurité information et le support technique. J'ai créé le site web de leur entreprise qui présente leurs services et permet à leurs clients de les contacter et de planifier des réunions,...etc.",
+      "images": [
+        "images/portfolio/pcvaccin/main.png",
+        "images/portfolio/pcvaccin/full.png",
+        "images/portfolio/pcvaccin/2.png",
+        "images/portfolio/pcvaccin/3.png",
+        "images/portfolio/pcvaccin/4.png",
+        "images/portfolio/pcvaccin/5.png",
+        "images/portfolio/pcvaccin/1.jpg"
+      ],
+      "url": "https://pcvaccin.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "codconvert.com",
+      "startDate": "2020",
+      "description": "COD Convert est une plateforme marocaine d'e-commerce, qui contient toutes les nouvelles fonctionnalités de l'e-commerce, comme upsell, downsell... et d'autres fonctionnalités. J'ai fait la plateforme y compris la zone d'administration en utilisant Laravel/Vue",
+      "images": [
+        "images/portfolio/codconvert/main.png",
+        "images/portfolio/codconvert/full.png",
+        "images/portfolio/codconvert/1.png",
+        "images/portfolio/codconvert/2.png",
+        "images/portfolio/codconvert/3.png"
+      ],
+      "url": "https://codconvert.com",
+      "technologies": [{
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "reseaupropulsion.com",
+      "startDate": "2020",
+      "description": "Reseaux Propulsion et une plateforme web qui gère des profils de membres qui ont des entreprises et les interconnecté entre eux dans des petits groupes de 10 approximativement. J'ai fait leur page de destination WordPress et la plateforme en utilisant PHP/Laravel",
+      "images": [
+        "images/portfolio/propulsion/2.png",
+        "images/portfolio/propulsion/main.png",
+        "images/portfolio/propulsion/3.png",
+        "images/portfolio/propulsion/1.png",
+        "images/portfolio/propulsion/main.png"
+      ],
+      "url": "https://reseaupropulsion.com",
+      "technologies": [{
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        }
+      ]
+    },
+    {
+      "title": "ebinformatique.com",
+      "startDate": "2020",
+      "description": "Situé sur la Rive-Sud de Montréal Canada, EB Informatique propose des solutions informatiques de haute qualité et selon les standards établis par les grands joueurs de sont époque. J'ai créé le site Web qui présente les services et le succès de l'entreprise.",
+      "images": [
+        "images/portfolio/ebinformatique/main.png",
+        "images/portfolio/ebinformatique/full.png"
+      ],
+      "url": "https://ebinformatique.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "industriesvm.com",
+      "startDate": "2020",
+      "description": "Industries VM est une entreprise spécialisée dans la conception, fabrication et assemblage de structure d'acier, j'ai mis à niveau leur ancien site web d'entreprise en un site moderne et propre sur WordPress",
+      "images": [
+        "images/portfolio/industriesvm/main.png",
+        "images/portfolio/industriesvm/full.png",
+        "images/portfolio/industriesvm/1.png"
+      ],
+      "url": "https://industriesvm.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Allomaallem",
+      "startDate": "2021",
+      "description": "AlloMaallsem est une nouvelle plate-forme marocaine pour connecter des individus et des artisans expérimentés de différentes spécialités.",
+      "images": [
+        "images/portfolio/allomaallem/1.png",
+        "images/portfolio/allomaallem/2.png",
+        "images/portfolio/allomaallem/3.png"
+      ],
+      "url": "https://allom3allem.com",
+      "technologies": [{
+          "class": "devicon-nodejs-plain",
+          "name": "Node js"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next js"
+        }
+      ]
+    }
+  ],
+  "experience": [{
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}

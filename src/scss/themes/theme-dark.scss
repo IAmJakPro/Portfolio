@@ -104,4 +104,14 @@ body[data-theme="dark"] {
    .close-icon {
       color: white;
    }
+
+   .contact-btn {
+      border-color: #FFF !important;
+      color: white;
+    }
+  
+    .contact-btn:hover {
+      background-color: #FFF !important;
+      color: #5b5b5b !important;
+    }
 }
