@@ -1,8 +1,5 @@
 import React, { Component } from 'react';
-import { Icon } from '@iconify/react';
-/* import linkedIcon from "@iconify/icons-logos/linkerd"; */
-/* import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue"; */
+
 
 class About extends Component {
   render() {
@@ -44,20 +41,6 @@ class About extends Component {
                     style={{marginBottom: "1.5rem"}}
                   />
                   {networks}
-                  {/* <a href="#"><i className="fab fa-github" style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}></i></a>
-                  <a href="#"><i className="fab fa-linkedin" style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}></i></a> */}
-                  {/* <Icon
-                    icon={linkedIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
-                  {/* <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
-                  {/* <Icon
-                    icon={vueIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
                 </span>
               </div>
             </div>
