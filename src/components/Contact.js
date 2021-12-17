@@ -18,7 +18,7 @@ class Contact extends Component {
             </h1>
           </div>
         </div>
-        <h3 className="text-center mb-5">{email}</h3>
+        <h3 className="text-center mb-5 contact-email">{email}</h3>
         <div className="col-md-8 mx-auto d-flex align-items-center justify-content-center">
           <a href={`mailto:${email}`} className="btn btn-lg contact-btn">
             {contactMe}
