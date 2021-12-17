@@ -9,6 +9,11 @@ html {
   padding: 0;
 }
 
+section {
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+
 a:hover {
   text-decoration: none !important;
 }
@@ -266,6 +271,9 @@ header h1 {
     margin-top: 27%;
     text-align: center;
   }
+  .foto img {
+    height: auto;
+  }
 }
 
 .modal-inside .modal-content {
@@ -446,7 +454,7 @@ h2.skill-title {
   border-style: solid !important;
   padding: 1rem !important;
   font-size: 2.5em !important;
-  transition: .3s all ease-in-out !important;
+  transition: 0.3s all ease-in-out !important;
 }
 
 .modal-content .awssld__box/* :nth-of-type(2) */ .awssld__content {

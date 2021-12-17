@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
@@ -27,7 +26,7 @@ class About extends Component {
     return (
       <section id="about">
         <div className="col-md-12">
-          <h1 style={{ color: 'black' }}>
+          <h1 className="section-title" style={{ color: 'black' }}>
             <span>{sectionName}</span>
           </h1>
           <div className="row center mx-auto mb-5">
@@ -38,7 +37,7 @@ class About extends Component {
                     height="250px"
                     src={profilepic}
                     alt="Avatar placeholder"
-                    style={{marginBottom: "1.5rem"}}
+                    style={{ marginBottom: '1.5rem' }}
                   />
                   {networks}
                 </span>
