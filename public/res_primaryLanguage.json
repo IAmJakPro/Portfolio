@@ -1,0 +1,238 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Osama Jaker. I’m a fullstack Developer located in Morocco. I have a serious passion for web development. I'm working with newest web frameworks and technologies like MERN stack and Laravel/vue, along with Wordpress.\nWell-organised person, problem solver, fast learner, independent employee with high attention to detail.\nInterested in the entire web development spectrum and working on ambitious projects with positive people.\nThank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Recent projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "contact": "Contact me"
+    },
+    "contact": "Contact"
+  },
+  "projects": [{
+      "title": "pcvaccin.com",
+      "startDate": "2019",
+      "description": "PC Vaccin is a canadian company located in Quebec, specialized in information security and technical support. I made their company website that shows their services, and have their client the ability to contact them, and schedualmeetings..etc.",
+      "images": [
+        "/images/portfolio/pcvaccin/main.png",
+        "/images/portfolio/pcvaccin/full.png",
+        "/images/portfolio/pcvaccin/2.png",
+        "/images/portfolio/pcvaccin/3.png",
+        "images/portfolio/pcvaccin/4.png",
+        "images/portfolio/pcvaccin/5.png",
+        "images/portfolio/pcvaccin/1.jpg"
+      ],
+      "url": "https://pcvaccin.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "codconvert.com",
+      "startDate": "2020",
+      "description": "COD Convert is moroccan cash on delivery ecommerce platform, which contains all the new ecommerce features including upsell, downsell...and other features. I made the platform including administration area using Laravel/Vue",
+      "images": [
+        "images/portfolio/codconvert/main.png",
+        "images/portfolio/codconvert/full.png",
+        "images/portfolio/codconvert/1.png",
+        "images/portfolio/codconvert/2.png",
+        "images/portfolio/codconvert/3.png"
+      ],
+      "url": "https://codconvert.com",
+      "technologies": [{
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "reseaupropulsion.com",
+      "startDate": "2020",
+      "description": "Reseaux Propulsion is a canadian web platform that manages profiles of members who have businesses and interconnected them in small groups of 10 approximately. I made their WordPress landing page and the platform using PHP/Laravel",
+      "images": [
+        "images/portfolio/propulsion/2.png",
+        "images/portfolio/propulsion/main.png",
+        "images/portfolio/propulsion/3.png",
+        "images/portfolio/propulsion/1.png",
+        "images/portfolio/propulsion/main.png"
+      ],
+      "url": "https://reseaupropulsion.com",
+      "technologies": [{
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "Vue"
+        }
+      ]
+    },
+    {
+      "title": "ebinformatique.com",
+      "startDate": "2020",
+      "description": "Located on the South Shore of Montreal Canada, EB Informatique offers high quality IT solutions according to the standards established by the big players of his time. I made the website that showcases the company services and success",
+      "images": [
+        "images/portfolio/ebinformatique/main.png",
+        "images/portfolio/ebinformatique/full.png"
+      ],
+      "url": "https://ebinformatique.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "industriesvm.com",
+      "startDate": "2020",
+      "description": "Industries VM is a company specializes in conception, manufacturing and assembling of structural steel, I upgraded their old company website to a modern and clean one on WordPress",
+      "images": [
+        "images/portfolio/industriesvm/main.png",
+        "images/portfolio/industriesvm/full.png",
+        "images/portfolio/industriesvm/1.png"
+      ],
+      "url": "https://industriesvm.com",
+      "technologies": [{
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "AlloMaallem",
+      "startDate": "2021",
+      "description": "AlloMaallem is a new Moroccan platform for connecting individuals and experienced craftsmen from different specialties.",
+      "images": [
+        "images/portfolio/allomaallem/1.png",
+        "images/portfolio/allomaallem/2.png",
+        "images/portfolio/allomaallem/3.png"
+      ],
+      "url": "https://allom3allem.com",
+      "technologies": [{
+          "class": "devicon-nodejs-plain",
+          "name": "Node js"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nextjs-plain",
+          "name": "Next js"
+        }
+      ]
+    }
+  ],
+  "experience": [{
+      "company": "DefOpenSource",
+      "title": "Front-End Developer",
+      "years": "10.2019 - present",
+      "mainTech": [
+        "Angular 8/9/10"
+      ],
+      "technologies": [
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap",
+        "EF Core",
+        ".NET Core",
+        "SignalR",
+        "Angular Material"
+      ]
+    },
+    {
+      "company": "Serros Solutions",
+      "title": "Intern",
+      "years": "01.2018 - 09.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "RxJS",
+        "Django",
+        "PHP",
+        "JavaScript",
+        "DHTMLX Gantt"
+      ]
+    }
+  ]
+}
