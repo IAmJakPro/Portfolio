@@ -12,7 +12,7 @@
     "contact": "Contact"
   },
   "projects": [{
-      "title": "pcvaccin.com",
+      "title": "pcvaccin",
       "startDate": "2019",
       "description": "PC Vaccin est une entreprise canadienne située au Québec, spécialisée dans la sécurité information et le support technique. J'ai créé le site web de leur entreprise qui présente leurs services et permet à leurs clients de les contacter et de planifier des réunions,...etc.",
       "images": [
@@ -44,9 +44,9 @@
       ]
     },
     {
-      "title": "codconvert.com",
+      "title": "codconvert",
       "startDate": "2020",
-      "description": "COD Convert est une plateforme marocaine d'e-commerce, qui contient toutes les nouvelles fonctionnalités de l'e-commerce, comme upsell, downsell... et d'autres fonctionnalités. J'ai fait la plateforme y compris la zone d'administration en utilisant Laravel/Vue",
+      "description": "COD Convert est un script d'e-commerce, qui contient toutes les nouvelles fonctionnalités de l'e-commerce, comme upsell, downsell... et d'autres fonctionnalités. J'ai fait la plateforme y compris la zone d'administration en utilisant Laravel/Vue",
       "images": [
         "images/portfolio/codconvert/main.png",
         "images/portfolio/codconvert/full.png",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "title": "reseaupropulsion.com",
+      "title": "reseaux propulsion",
       "startDate": "2020",
       "description": "Reseaux Propulsion et une plateforme web qui gère des profils de membres qui ont des entreprises et les interconnecté entre eux dans des petits groupes de 10 approximativement. J'ai fait leur page de destination WordPress et la plateforme en utilisant PHP/Laravel",
       "images": [
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "title": "ebinformatique.com",
+      "title": "eb informatique",
       "startDate": "2020",
       "description": "Situé sur la Rive-Sud de Montréal Canada, EB Informatique propose des solutions informatiques de haute qualité et selon les standards établis par les grands joueurs de sont époque. J'ai créé le site Web qui présente les services et le succès de l'entreprise.",
       "images": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "title": "industriesvm.com",
+      "title": "industries v.m",
       "startDate": "2020",
       "description": "Industries VM est une entreprise spécialisée dans la conception, fabrication et assemblage de structure d'acier, j'ai mis à niveau leur ancien site web d'entreprise en un site moderne et propre sur WordPress",
       "images": [
